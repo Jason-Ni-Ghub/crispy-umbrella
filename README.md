@@ -1,6 +1,6 @@
-## {YOUR NAME HERE}
-### sidekick: {YOUR DUCKY'S NAME HERE}
-### pd{xx}
+## {Jason Ni}
+### sidekick: {The Thing}
+### pd{05}
 # Foundations in CS Daily Work Repository
 ---
 
